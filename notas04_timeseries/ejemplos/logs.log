@@ -1,0 +1,176 @@
+2024-11-02 18:32:24,383:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-02 18:32:24,383:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-02 18:32:24,383:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-02 18:32:24,383:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-11-02 18:32:28,083:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:32:28,083:INFO:Logging name: anomaly-default-name
+2024-11-02 18:32:28,085:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:32:28,085:INFO:version 3.3.2
+2024-11-02 18:32:28,085:INFO:Initializing setup()
+2024-11-02 18:32:28,085:INFO:self.USI: 4a0f
+2024-11-02 18:32:28,085:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:32:28,086:INFO:Checking environment
+2024-11-02 18:32:28,086:INFO:python_version: 3.11.5
+2024-11-02 18:32:28,086:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:32:28,086:INFO:machine: AMD64
+2024-11-02 18:32:28,086:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:32:28,086:INFO:Memory: svmem(total=17061126144, available=6851674112, percent=59.8, used=10209452032, free=6851674112)
+2024-11-02 18:32:28,086:INFO:Physical Core: 4
+2024-11-02 18:32:28,086:INFO:Logical Core: 8
+2024-11-02 18:32:28,087:INFO:Checking libraries
+2024-11-02 18:32:28,087:INFO:System:
+2024-11-02 18:32:28,087:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:32:28,087:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:32:28,087:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:32:28,087:INFO:PyCaret required dependencies:
+2024-11-02 18:33:09,807:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:33:09,807:INFO:Logging name: anomaly-default-name
+2024-11-02 18:33:09,808:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:33:09,808:INFO:version 3.3.2
+2024-11-02 18:33:09,808:INFO:Initializing setup()
+2024-11-02 18:33:09,808:INFO:self.USI: a750
+2024-11-02 18:33:09,808:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:33:09,808:INFO:Checking environment
+2024-11-02 18:33:09,808:INFO:python_version: 3.11.5
+2024-11-02 18:33:09,808:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:33:09,808:INFO:machine: AMD64
+2024-11-02 18:33:09,808:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:33:09,808:INFO:Memory: svmem(total=17061126144, available=6930878464, percent=59.4, used=10130247680, free=6930878464)
+2024-11-02 18:33:09,808:INFO:Physical Core: 4
+2024-11-02 18:33:09,808:INFO:Logical Core: 8
+2024-11-02 18:33:09,808:INFO:Checking libraries
+2024-11-02 18:33:09,808:INFO:System:
+2024-11-02 18:33:09,808:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:33:09,808:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:33:09,808:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:33:09,808:INFO:PyCaret required dependencies:
+2024-11-02 18:38:24,126:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:38:24,126:INFO:Logging name: anomaly-default-name
+2024-11-02 18:38:24,126:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:38:24,126:INFO:version 3.3.2
+2024-11-02 18:38:24,126:INFO:Initializing setup()
+2024-11-02 18:38:24,126:INFO:self.USI: c26d
+2024-11-02 18:38:24,126:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:38:24,126:INFO:Checking environment
+2024-11-02 18:38:24,126:INFO:python_version: 3.11.5
+2024-11-02 18:38:24,126:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:38:24,126:INFO:machine: AMD64
+2024-11-02 18:38:24,127:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:38:24,127:INFO:Memory: svmem(total=17061126144, available=6917877760, percent=59.5, used=10143248384, free=6917877760)
+2024-11-02 18:38:24,127:INFO:Physical Core: 4
+2024-11-02 18:38:24,127:INFO:Logical Core: 8
+2024-11-02 18:38:24,127:INFO:Checking libraries
+2024-11-02 18:38:24,127:INFO:System:
+2024-11-02 18:38:24,127:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:38:24,127:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:38:24,127:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:38:24,127:INFO:PyCaret required dependencies:
+2024-11-02 18:40:38,611:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:40:38,611:INFO:Logging name: anomaly-default-name
+2024-11-02 18:40:38,611:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:40:38,611:INFO:version 3.3.2
+2024-11-02 18:40:38,611:INFO:Initializing setup()
+2024-11-02 18:40:38,611:INFO:self.USI: e99a
+2024-11-02 18:40:38,611:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:40:38,611:INFO:Checking environment
+2024-11-02 18:40:38,611:INFO:python_version: 3.11.5
+2024-11-02 18:40:38,611:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:40:38,612:INFO:machine: AMD64
+2024-11-02 18:40:38,612:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:40:38,612:INFO:Memory: svmem(total=17061126144, available=6889562112, percent=59.6, used=10171564032, free=6889562112)
+2024-11-02 18:40:38,612:INFO:Physical Core: 4
+2024-11-02 18:40:38,612:INFO:Logical Core: 8
+2024-11-02 18:40:38,612:INFO:Checking libraries
+2024-11-02 18:40:38,612:INFO:System:
+2024-11-02 18:40:38,612:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:40:38,612:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:40:38,612:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:40:38,612:INFO:PyCaret required dependencies:
+2024-11-02 18:43:33,018:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:43:33,018:INFO:Logging name: anomaly-default-name
+2024-11-02 18:43:33,018:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:43:33,018:INFO:version 3.3.2
+2024-11-02 18:43:33,018:INFO:Initializing setup()
+2024-11-02 18:43:33,018:INFO:self.USI: 2a92
+2024-11-02 18:43:33,019:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:43:33,019:INFO:Checking environment
+2024-11-02 18:43:33,019:INFO:python_version: 3.11.5
+2024-11-02 18:43:33,019:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:43:33,019:INFO:machine: AMD64
+2024-11-02 18:43:33,019:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:43:33,019:INFO:Memory: svmem(total=17061126144, available=7006117888, percent=58.9, used=10055008256, free=7006117888)
+2024-11-02 18:43:33,019:INFO:Physical Core: 4
+2024-11-02 18:43:33,019:INFO:Logical Core: 8
+2024-11-02 18:43:33,019:INFO:Checking libraries
+2024-11-02 18:43:33,019:INFO:System:
+2024-11-02 18:43:33,019:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:43:33,019:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:43:33,019:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:43:33,057:INFO:PyCaret required dependencies:
+2024-11-02 18:46:16,000:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:46:16,000:INFO:Logging name: anomaly-default-name
+2024-11-02 18:46:16,000:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:46:16,000:INFO:version 3.3.2
+2024-11-02 18:46:16,000:INFO:Initializing setup()
+2024-11-02 18:46:16,000:INFO:self.USI: 556f
+2024-11-02 18:46:16,000:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:46:16,000:INFO:Checking environment
+2024-11-02 18:46:16,000:INFO:python_version: 3.11.5
+2024-11-02 18:46:16,001:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:46:16,001:INFO:machine: AMD64
+2024-11-02 18:46:16,001:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:46:16,001:INFO:Memory: svmem(total=17061126144, available=6903500800, percent=59.5, used=10157625344, free=6903500800)
+2024-11-02 18:46:16,001:INFO:Physical Core: 4
+2024-11-02 18:46:16,001:INFO:Logical Core: 8
+2024-11-02 18:46:16,001:INFO:Checking libraries
+2024-11-02 18:46:16,001:INFO:System:
+2024-11-02 18:46:16,001:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:46:16,001:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:46:16,001:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:46:16,001:INFO:PyCaret required dependencies:
+2024-11-02 18:47:29,201:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:47:29,201:INFO:Logging name: anomaly-default-name
+2024-11-02 18:47:29,201:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:47:29,201:INFO:version 3.3.2
+2024-11-02 18:47:29,201:INFO:Initializing setup()
+2024-11-02 18:47:29,201:INFO:self.USI: 8c1a
+2024-11-02 18:47:29,202:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:47:29,202:INFO:Checking environment
+2024-11-02 18:47:29,202:INFO:python_version: 3.11.5
+2024-11-02 18:47:29,202:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:47:29,202:INFO:machine: AMD64
+2024-11-02 18:47:29,202:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:47:29,202:INFO:Memory: svmem(total=17061126144, available=6838812672, percent=59.9, used=10222313472, free=6838812672)
+2024-11-02 18:47:29,202:INFO:Physical Core: 4
+2024-11-02 18:47:29,202:INFO:Logical Core: 8
+2024-11-02 18:47:29,202:INFO:Checking libraries
+2024-11-02 18:47:29,202:INFO:System:
+2024-11-02 18:47:29,202:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:47:29,202:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:47:29,202:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:47:29,202:INFO:PyCaret required dependencies:
+2024-11-02 18:56:58,753:INFO:PyCaret AnomalyExperiment
+2024-11-02 18:56:58,753:INFO:Logging name: anomaly-default-name
+2024-11-02 18:56:58,753:INFO:ML Usecase: MLUsecase.ANOMALY
+2024-11-02 18:56:58,753:INFO:version 3.3.2
+2024-11-02 18:56:58,753:INFO:Initializing setup()
+2024-11-02 18:56:58,753:INFO:self.USI: 7956
+2024-11-02 18:56:58,753:INFO:self._variable_keys: {'memory', 'idx', 'data', 'html_param', 'X', 'gpu_n_jobs_param', 'log_plots_param', '_available_plots', 'n_jobs_param', 'USI', 'logging_param', 'gpu_param', 'exp_name_log', '_ml_usecase', 'pipeline', 'seed', 'exp_id'}
+2024-11-02 18:56:58,753:INFO:Checking environment
+2024-11-02 18:56:58,753:INFO:python_version: 3.11.5
+2024-11-02 18:56:58,753:INFO:python_build: ('main', 'Sep 11 2023 13:26:23')
+2024-11-02 18:56:58,753:INFO:machine: AMD64
+2024-11-02 18:56:58,754:INFO:platform: Windows-10-10.0.19045-SP0
+2024-11-02 18:56:58,754:INFO:Memory: svmem(total=17061126144, available=6953005056, percent=59.2, used=10108121088, free=6953005056)
+2024-11-02 18:56:58,754:INFO:Physical Core: 4
+2024-11-02 18:56:58,754:INFO:Logical Core: 8
+2024-11-02 18:56:58,754:INFO:Checking libraries
+2024-11-02 18:56:58,754:INFO:System:
+2024-11-02 18:56:58,754:INFO:    python: 3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+2024-11-02 18:56:58,754:INFO:executable: C:\ProgramData\anaconda3\python.exe
+2024-11-02 18:56:58,754:INFO:   machine: Windows-10-10.0.19045-SP0
+2024-11-02 18:56:58,754:INFO:PyCaret required dependencies:
